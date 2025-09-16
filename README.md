@@ -16,7 +16,8 @@
   **Default version:** \<branch name><br>
   **Project repository:** https://github.com/KumarAnuraagg/Jenkins_SharedLib.git <br>
 ****
-<img src="https://github.com/KumarAnuragg/Jenkins_SharedLib/blob/main/assests/Sharedlib-config-2.png" />
+<img src="https://github.com/KumarAnuragg/Shared-lib/blob/main/assets/Sharedlib-config-2.png" />
+
 
 #
 ### How to use it in Jenkins pipeline
